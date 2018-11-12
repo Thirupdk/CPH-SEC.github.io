@@ -1,7 +1,7 @@
 ## CPH:SEC - How to Write for CPH:SEC
 #### v. 0.1  a
 
-_Disclaimer & Caveat Lector: This article is for educational purposes only. The author is not responsible for any misuse or wrong doing. Always follow the law, whitehat hacking ethics, good business practice and industry standards._
+_Disclaimer & Caveat Lector: This article is for educational purposes only. The author is not responsible for any abuse or wrong doing. Always follow the law, whitehat hacking ethics, good business practice and industry standards._
 
 + By Shiva @ CPH:SEC : https://cph-sec.github.io/
 
@@ -19,8 +19,8 @@ _Disclaimer & Caveat Lector: This article is for educational purposes only. The 
 
 ### <a id="Introduction"></a>Introduction
 
-Its the dream to put Copenhagen and Danish white-hat hackers on the world map by creating solid content i.e. hacking guides for the CPH:SEC GitBook.
-This way both writers and readers can enjoy CPH:SEC hacking guides. High quality guides are in popular demand and so an initiative of corporation is needed.
+It's the dream to put Copenhagen and Danish white-hat hackers on the world map by creating solid content i.e. hacking guides for the CPH:SEC GitBook.
+This way both writers and readers can enjoy CPH:SEC hacking guides. High quality guides are in popular demand and so an initiative of cooperation is needed.
 This is the dream of the CPH:SEC GitBook project or put simply: **We all like more hacking guides right?**
 Using GitBook for hosting is a free, efficient and somewhat low-tech way to deliver content to readers and is easy to use for a linux user, hacker, programmer and works on all platforms.
 Like Github, GitBook supports MarkDown (MD) natively and so to make writing easy there is a CPH:SEC MD template.
@@ -50,7 +50,7 @@ The template is simple and gives basic structure, easy for readers to recognize,
 
 ![image](template_shot.png)
 
-For editing MD documents most editors can be used. However, in next it is described how to use Atom for editing.
+For editing MD documents most editors can be used. However, in the following section it is described how to use Atom for editing.
 
 
 ### <a id="Atom"></a>Using Atom
