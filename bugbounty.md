@@ -57,9 +57,14 @@ Bugcrowd¹, Cobalt² and Intigrity³ are platforms that are very identical to ha
 
 My best advice: Go for programs that give points, but don't pay cash in the beginning, just to get started and get some findings, while you may get invited to private programs sooner this way. ALWAYS read the rules of the programs through before you start testing. Some programs have an open scope for all the domains and subdomains, while others only cover a small scope of subdomains. There might also be rules about automated testing and other stuff that's worth noting.
 
-### <a id="Conclusion"></a>Conclusion
+As soon as you have picked a program to participate in, start doing recon and try everything out. When there are hundreds of other people around the world, who are looking for vulnerabilities jsut like you, it is important to explore the surface and attack them, where other people haven't focused enough during their testing. To do this, I persionally use sublist3r, a subdomain enumeration script for websites and google dorking.
 
-xxx _[?] Skriv et eller andet pis her :D_
+-----todo----
+![image](sublist3r.jpg)
+
+The picture above shows how by using publically available tools like google, virustotal, dnsdumpster and more, we are able to identify x amount on subdomains on y
+
+### <a id="Conclusion"></a>Conclusion
 
 #### Surf:
 + Bug Bounty Reference: https://github.com/ngalongc/bug-bounty-reference
